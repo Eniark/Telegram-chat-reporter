@@ -4,3 +4,4 @@ This is a small project I did during Russo-Ukrainian war using pyautogui to repo
 1. In command line run 'pip install -r requirements.txt';
 2. run 'python main.py';
 
+_Note: the app requires Telegram Desktop to be installed on your PC._
